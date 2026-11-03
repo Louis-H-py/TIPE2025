@@ -6,6 +6,8 @@ Ce projet se situe à la croisée de l'informatique pratique, de l'informatique 
 
 **Auteur :** Louis H.
 
+**Stack :** 🐍 Python | 🧮 NumPy | 🔮 Scikit-learn | 🧠 Keras | 📊 Plotly
+
 ## Étude théorique de la localisation et de la séparation informatique de sources sonores
 
 > Comment convertir des signaux sonores en informations de localisation, puis les traiter informatiquement afin d'isoler les différentes sources sonores ?
@@ -47,6 +49,8 @@ This project combines **Applied Computer Science**, **Theoretical Computer Scien
 
 **Author:** Louis H.
 
+**Stack :** 🐍 Python | 🧮 NumPy | 🔮 Scikit-learn | 🧠 Keras | 📊 Plotly
+
 ## Theoretical Study of Sound Source Localization and Separation
 
 > How can sound signals be transformed into location information and processed to isolate individual sound sources?
@@ -72,6 +76,7 @@ Sound source separation is explored using several approaches:
 
 - **Localization:** up to 5 sound sources can be located, depending on the number of sources present.
 - **Separation:** a single sound source can be isolated from a mixture containing up to 7 sources.
+
 
 ### Presentation
 
